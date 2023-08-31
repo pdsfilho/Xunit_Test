@@ -1,0 +1,11 @@
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\bin\Debug\net7.0\Math.deps.json
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\bin\Debug\net7.0\Math.dll
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\bin\Debug\net7.0\Math.pdb
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\Math.AssemblyInfoInputs.cache
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\Math.AssemblyInfo.cs
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\Math.dll
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\refint\Math.dll
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\Math.pdb
+C:\Users\pdant\OneDrive\Documentos\Cin\Stellantis\Aut_Teste1\Atividade Final\UnitTestingInNETCore\Math\obj\Debug\net7.0\ref\Math.dll
