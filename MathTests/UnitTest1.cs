@@ -20,7 +20,7 @@ public class UnitTest1
         Assert.Equal(resultExpected, resultActual);
     }
     
-    [Fact(DisplayName = "Given integer numbers, subtract should succeed")]
+    [Fact(DisplayName = "Given integer numbers, the subtraction should succeed")]
     public void Test_Subtract()
     {
          //Arrange
@@ -34,7 +34,7 @@ public class UnitTest1
         //Assert
         Assert.Equal(resultExpected, resultActual);
     }
-    [Fact(DisplayName = "Given integer numbers, multiply should succeed")]
+    [Fact(DisplayName = "Given integer numbers, the multiplication should succeed")]
     public void Test_Multiply()
     {
         //Arrange
@@ -48,7 +48,7 @@ public class UnitTest1
         //Assert
         Assert.Equal(resultExpected, resultActual);
     }
-    [Fact(DisplayName = "Given integer numbers, divide should succeed")]
+    [Fact(DisplayName = "Given integer numbers, the division should succeed")]
     public void Test_Divide()
     {
         //Arrange
